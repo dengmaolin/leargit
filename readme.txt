@@ -1,2 +1,2 @@
-git is a strongest 
+git is a ……
 git modify
