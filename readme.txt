@@ -1,2 +1,2 @@
-git is a ……
+git is a ……父窗口
 git modify
